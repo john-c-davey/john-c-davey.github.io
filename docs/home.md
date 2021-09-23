@@ -1,5 +1,5 @@
 layout: page
 title: "Test Page"
-permalink: /about/
+permalink: /testing/
 
 Hello this is just a test!
