@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Test Page
 permalink: /test/
 ---
 Hello this is just a test!
